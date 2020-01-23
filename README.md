@@ -21,8 +21,8 @@ $ scrapy shell url
 ## Save to json file 
 $ scrapy crawl quotes -o quotes.json
 
-####### add items in items.py
-####### add ipeline to process item
-####### add models.py for DB
-####### add connect string in settings
-####### add in pipelines.py
+add items in items.py
+add ipeline to process item
+add models.py for DB
+add connect string in settings
+add in pipelines.py
